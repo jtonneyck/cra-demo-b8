@@ -1,0 +1,8 @@
+[
+{"firstname": "Gonçalo", "lastname": "Elísio", "email": "goncaloelisio@gmail.com", "profile_pic": "https://awesome-students.s3.eu-central-1.amazonaws.com/goncalo.png"},
+{"firstname": "Monika", "lastname":	 "Swidzinska", "email": "mswidzinska87@gmail.com", "profile_pic": "https://awesome-students.s3.eu-central-1.amazonaws.com/monika.png"},
+{"firstname": "Michael","lastname": "Ta", "email":"h.michael.ta@gmail.com", "profile_pic": "https://awesome-students.s3.eu-central-1.amazonaws.com/mike.png"},
+{"firstname": "Hannah", "lastname":	"Hawes", "email": "hannahdhawes@gmail.com", "profile_pic": "https://awesome-students.s3.eu-central-1.amazonaws.com/hannah.png"},
+{"firstname": "Dominik","lastname": "Antunovic","email": "https://awesome-students.s3.eu-central-1.amazonaws.com/dominik.png"},
+{"firstname": "Marc", "lastname": "de Hoogh", "email": "m.p.a.j.dehoogh@tudelft.nl", "profile_pic": "https://awesome-students.s3.eu-central-1.amazonaws.com/marc.png"}
+]
